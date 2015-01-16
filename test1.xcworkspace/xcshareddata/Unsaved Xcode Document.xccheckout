@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9871DFA-7FF9-4E88-B46E-177EC05FC705</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48C2C0D26B2CE983333634B02633884648CC727C</key>
+		<string>https://github.com/55011212015TG/55011212015_karanpas.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48C2C0D26B2CE983333634B02633884648CC727C</key>
+		<string>55011212015_karanpas/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/55011212015TG/55011212015_karanpas.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48C2C0D26B2CE983333634B02633884648CC727C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48C2C0D26B2CE983333634B02633884648CC727C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>55011212015_karanpas</string>
+		</dict>
+	</array>
+</dict>
+</plist>
