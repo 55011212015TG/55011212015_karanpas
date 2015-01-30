@@ -1,6 +1,6 @@
 class zoo {
-    let animal : [String] = ["dog","cat","bird"]
-    let food   : [String] = ["peddegree","fish","bug"]
+    let animal : [String] = ["1","2","3"]
+    let food   : [String] = ["1","2","3"]
     let animal1:String
     
     init(animal: String){

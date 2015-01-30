@@ -18,24 +18,7 @@ class cal{
         
     }
     
-    /* func returnPoss()->[Int:Double]{
-    let possibleTipsinferred = [0.15,0.18,0.20]
-    let possibleTipsExplicit:[Double]=[0.15,018,0.20]
-    var numberOfItems = possibleTipsinferred.count
-    
-    
-    var retval = [Int:Double]()
-    for possibleTip in possibleTipsinferred{
-    
-    let intPct = Int(possibleTip*100)
-    
-    retval[intPct]=calcTipWithTipPct(possibleTip)
-    }
-    return retval
-    }
-    
-    */
-    
+       
     func returnPssibleTip() ->[Int:Double]{
         
         let possibleTipsInferred = [0.15,0.18,0.20]
