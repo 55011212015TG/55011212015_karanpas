@@ -18,28 +18,28 @@ class calculator{
         
         
         if (op == "+"){
-            var sum = a()
+            var sum = sum1()
             return sum
             
         }
         
         
         if (op == "-"){
-            var sum = b()
+            var sum = sum2()
             return sum
             
         }
         
         
         if (op == "*"){
-            var sum = c()
+            var sum = sum3()
             return sum
             
         }
         
         
         if ( op == "/"){
-            var sum = d()
+            var sum = sum4()
             return sum
             
         }
@@ -48,14 +48,14 @@ class calculator{
         
     }
     
-    func a () -> Double{
+    func sum1 () -> Double{
         
         let x = n1+n2
         return x
     }
     
     
-    func b () -> Double{
+    func sum2 () -> Double{
         
         
         let x = n1-n2
@@ -63,7 +63,7 @@ class calculator{
     }
     
     
-    func c () -> Double{
+    func sum3 () -> Double{
         
         
         let x = n1*n2
@@ -71,7 +71,7 @@ class calculator{
     }
     
     
-    func d () -> Double{
+    func sum4 () -> Double{
         
         
         let x = n1/n2
