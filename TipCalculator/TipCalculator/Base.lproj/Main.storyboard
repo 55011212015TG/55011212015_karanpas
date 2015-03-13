@@ -57,7 +57,7 @@
                                 </connections>
                             </button>
                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Unknown.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="LbE-CE-8x5">
-                                <rect key="frame" x="88" y="456" width="225" height="225"/>
+                                <rect key="frame" x="95" y="439" width="225" height="225"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
